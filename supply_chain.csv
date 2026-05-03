@@ -1,0 +1,501 @@
+Order_ID,Supplier_Name,Product_Type,Inventory_Level,Shipping_Time,Shipping_Cost,Warehouse,Order_Quantity,Delivery_Status,Delay_Days,Region
+1001,Supplier C,Furniture,490,7,345.07,Warehouse 2,78,Delayed,4,East
+1002,Supplier D,Electronics,307,4,121.81,Warehouse 2,64,Delayed,6,South
+1003,Supplier D,Clothing,205,6,470.44,Warehouse 1,47,Delayed,3,East
+1004,Supplier D,Electronics,144,5,492.58,Warehouse 2,46,Delayed,6,West
+1005,Supplier D,Clothing,384,9,448.6,Warehouse 2,28,Delayed,2,East
+1006,Supplier D,Furniture,287,7,390.37,Warehouse 1,70,Delayed,1,West
+1007,Supplier B,Furniture,267,9,484.77,Warehouse 3,88,Delayed,4,South
+1008,Supplier B,Food,475,4,104.67,Warehouse 2,20,Delayed,6,East
+1009,Supplier A,Clothing,444,6,154.96,Warehouse 1,10,In Transit,0,West
+1010,Supplier B,Food,115,7,279.54,Warehouse 3,95,In Transit,1,East
+1011,Supplier B,Food,377,3,361.86,Warehouse 2,80,Delayed,1,South
+1012,Supplier C,Furniture,217,7,337.03,Warehouse 2,76,Delayed,4,West
+1013,Supplier A,Furniture,302,3,284.2,Warehouse 2,47,In Transit,0,East
+1014,Supplier D,Furniture,183,8,348.22,Warehouse 3,56,Delivered,7,West
+1015,Supplier B,Clothing,250,4,412.27,Warehouse 3,84,Delayed,0,North
+1016,Supplier B,Food,350,2,196.71,Warehouse 3,81,Delayed,7,East
+1017,Supplier B,Furniture,493,6,146.4,Warehouse 3,51,Delivered,2,East
+1018,Supplier B,Clothing,228,10,471.24,Warehouse 3,91,Delivered,5,South
+1019,Supplier C,Electronics,280,9,402.18,Warehouse 2,63,In Transit,1,West
+1020,Supplier D,Food,145,9,449.58,Warehouse 1,43,Delayed,0,North
+1021,Supplier B,Food,202,8,117.06,Warehouse 3,75,In Transit,0,North
+1022,Supplier C,Clothing,384,7,435.91,Warehouse 3,77,Delivered,7,North
+1023,Supplier C,Electronics,120,3,91.22,Warehouse 3,22,Delivered,6,East
+1024,Supplier A,Electronics,408,8,259.31,Warehouse 2,88,Delivered,1,South
+1025,Supplier D,Clothing,147,10,425.1,Warehouse 2,12,Delivered,2,South
+1026,Supplier A,Furniture,384,7,482.67,Warehouse 2,13,In Transit,3,East
+1027,Supplier C,Furniture,451,7,367.58,Warehouse 3,29,Delayed,5,West
+1028,Supplier B,Electronics,121,10,187.36,Warehouse 3,18,Delayed,5,North
+1029,Supplier A,Furniture,368,3,177.3,Warehouse 2,84,Delayed,1,East
+1030,Supplier B,Food,197,4,163.57,Warehouse 3,80,Delivered,0,West
+1031,Supplier B,Electronics,483,2,314.42,Warehouse 3,42,Delivered,0,West
+1032,Supplier A,Food,381,2,430.93,Warehouse 3,72,Delivered,5,South
+1033,Supplier B,Furniture,498,8,326.12,Warehouse 1,43,Delivered,7,North
+1034,Supplier D,Clothing,347,2,155.52,Warehouse 3,87,In Transit,4,South
+1035,Supplier A,Furniture,263,4,329.9,Warehouse 1,69,In Transit,7,East
+1036,Supplier A,Food,349,10,174.59,Warehouse 2,19,Delivered,0,North
+1037,Supplier B,Clothing,334,8,263.29,Warehouse 1,78,Delivered,4,South
+1038,Supplier A,Food,212,9,62.57,Warehouse 1,18,Delayed,7,North
+1039,Supplier C,Furniture,82,7,237.18,Warehouse 2,81,Delivered,4,West
+1040,Supplier A,Food,90,7,204.84,Warehouse 1,85,Delivered,0,East
+1041,Supplier A,Furniture,129,9,454.57,Warehouse 3,87,Delivered,7,North
+1042,Supplier A,Clothing,108,10,158.02,Warehouse 2,56,Delayed,5,North
+1043,Supplier B,Furniture,453,9,67.89,Warehouse 1,61,In Transit,0,East
+1044,Supplier D,Furniture,279,4,199.46,Warehouse 3,46,Delivered,3,East
+1045,Supplier B,Furniture,459,8,106.79,Warehouse 1,40,Delayed,3,North
+1046,Supplier D,Electronics,79,8,420.39,Warehouse 1,77,Delivered,2,South
+1047,Supplier C,Food,448,6,182.03,Warehouse 2,58,In Transit,3,North
+1048,Supplier D,Food,72,5,324.4,Warehouse 3,34,Delayed,1,West
+1049,Supplier B,Electronics,274,6,385.41,Warehouse 1,85,Delivered,0,South
+1050,Supplier C,Food,419,7,210.18,Warehouse 2,45,Delivered,5,East
+1051,Supplier C,Clothing,470,10,89.56,Warehouse 3,47,Delayed,7,East
+1052,Supplier B,Food,477,3,136.16,Warehouse 2,51,Delayed,6,South
+1053,Supplier A,Clothing,277,7,495.95,Warehouse 3,39,Delivered,7,North
+1054,Supplier A,Furniture,266,6,76.1,Warehouse 1,63,In Transit,3,South
+1055,Supplier D,Food,354,2,328.56,Warehouse 3,26,Delivered,5,South
+1056,Supplier B,Furniture,427,6,120.57,Warehouse 2,17,Delayed,4,East
+1057,Supplier B,Clothing,226,4,176.44,Warehouse 2,15,In Transit,4,East
+1058,Supplier A,Food,75,2,331.14,Warehouse 2,55,Delivered,2,North
+1059,Supplier C,Furniture,144,6,265.59,Warehouse 3,42,In Transit,7,West
+1060,Supplier A,Food,85,2,244.5,Warehouse 3,35,Delivered,6,North
+1061,Supplier C,Furniture,218,7,308.76,Warehouse 2,90,In Transit,7,East
+1062,Supplier A,Furniture,432,5,405.88,Warehouse 3,19,Delayed,5,South
+1063,Supplier C,Food,70,8,159.72,Warehouse 1,73,In Transit,1,South
+1064,Supplier B,Food,320,6,496.73,Warehouse 3,20,In Transit,3,South
+1065,Supplier C,Furniture,102,3,479.09,Warehouse 2,50,Delivered,5,West
+1066,Supplier D,Furniture,442,5,263.68,Warehouse 3,29,Delivered,2,North
+1067,Supplier B,Clothing,166,6,286.21,Warehouse 1,11,In Transit,2,East
+1068,Supplier D,Food,400,3,336.27,Warehouse 3,79,Delayed,6,East
+1069,Supplier A,Food,232,6,239.47,Warehouse 1,32,Delivered,7,South
+1070,Supplier C,Food,288,3,207.7,Warehouse 1,21,Delivered,0,East
+1071,Supplier B,Furniture,139,5,112.41,Warehouse 2,75,Delivered,6,East
+1072,Supplier C,Furniture,201,8,71.44,Warehouse 3,76,Delayed,0,West
+1073,Supplier C,Furniture,80,7,385.54,Warehouse 1,66,Delivered,3,West
+1074,Supplier A,Electronics,425,5,174.19,Warehouse 3,61,Delayed,6,East
+1075,Supplier C,Furniture,226,3,305.4,Warehouse 3,16,In Transit,2,South
+1076,Supplier B,Furniture,389,5,154.64,Warehouse 2,37,Delivered,0,North
+1077,Supplier C,Clothing,259,7,479.54,Warehouse 2,94,Delayed,3,West
+1078,Supplier A,Furniture,415,6,124.29,Warehouse 1,73,Delayed,2,East
+1079,Supplier A,Furniture,269,4,139.84,Warehouse 2,79,In Transit,1,North
+1080,Supplier C,Electronics,462,9,465.16,Warehouse 1,81,In Transit,1,North
+1081,Supplier A,Clothing,304,2,413.59,Warehouse 3,67,In Transit,5,South
+1082,Supplier D,Electronics,377,9,247.08,Warehouse 2,63,In Transit,4,North
+1083,Supplier A,Furniture,192,4,235.0,Warehouse 3,80,In Transit,0,South
+1084,Supplier D,Food,321,7,229.76,Warehouse 2,63,Delivered,4,South
+1085,Supplier C,Electronics,355,4,420.93,Warehouse 1,28,Delivered,1,North
+1086,Supplier B,Food,59,4,249.14,Warehouse 1,66,Delayed,5,North
+1087,Supplier B,Electronics,153,6,179.53,Warehouse 2,49,Delivered,5,North
+1088,Supplier C,Clothing,93,9,327.99,Warehouse 2,46,Delayed,1,East
+1089,Supplier C,Clothing,274,6,384.02,Warehouse 1,89,Delayed,5,East
+1090,Supplier C,Clothing,122,4,427.33,Warehouse 3,91,In Transit,5,South
+1091,Supplier B,Food,77,3,147.45,Warehouse 3,16,In Transit,7,West
+1092,Supplier D,Electronics,242,10,169.94,Warehouse 2,90,Delayed,6,West
+1093,Supplier A,Clothing,308,9,239.85,Warehouse 2,36,Delayed,7,South
+1094,Supplier C,Food,168,8,184.32,Warehouse 3,72,In Transit,5,West
+1095,Supplier D,Furniture,465,3,343.07,Warehouse 1,96,Delivered,3,South
+1096,Supplier C,Food,476,9,64.98,Warehouse 1,27,Delayed,4,South
+1097,Supplier D,Food,274,4,238.62,Warehouse 1,76,Delayed,0,West
+1098,Supplier C,Furniture,282,6,421.64,Warehouse 2,12,Delivered,4,North
+1099,Supplier B,Electronics,264,2,458.73,Warehouse 1,58,Delivered,6,East
+1100,Supplier D,Electronics,352,2,53.8,Warehouse 3,34,In Transit,5,West
+1101,Supplier C,Food,227,9,147.62,Warehouse 3,58,Delivered,3,South
+1102,Supplier D,Furniture,62,8,58.88,Warehouse 3,33,Delivered,2,South
+1103,Supplier C,Electronics,362,9,120.0,Warehouse 1,74,In Transit,4,East
+1104,Supplier D,Electronics,301,2,187.21,Warehouse 1,20,In Transit,6,East
+1105,Supplier D,Clothing,438,5,359.6,Warehouse 2,87,Delayed,6,South
+1106,Supplier C,Food,422,5,419.03,Warehouse 3,86,In Transit,6,North
+1107,Supplier C,Clothing,114,3,181.99,Warehouse 3,33,In Transit,3,West
+1108,Supplier A,Furniture,219,7,320.6,Warehouse 2,83,Delivered,3,West
+1109,Supplier A,Clothing,273,9,408.4,Warehouse 1,13,In Transit,2,North
+1110,Supplier A,Electronics,234,8,121.5,Warehouse 2,22,In Transit,5,North
+1111,Supplier D,Food,152,2,261.47,Warehouse 2,35,In Transit,0,South
+1112,Supplier C,Electronics,376,9,257.36,Warehouse 1,40,Delivered,4,South
+1113,Supplier C,Electronics,348,10,425.6,Warehouse 3,92,Delayed,6,West
+1114,Supplier C,Clothing,182,6,324.84,Warehouse 2,20,Delayed,4,East
+1115,Supplier D,Food,356,4,368.39,Warehouse 2,53,Delayed,6,West
+1116,Supplier B,Furniture,342,8,461.28,Warehouse 2,63,Delivered,3,East
+1117,Supplier A,Furniture,212,7,384.79,Warehouse 2,23,Delivered,4,West
+1118,Supplier B,Food,213,5,235.87,Warehouse 2,11,In Transit,1,West
+1119,Supplier D,Clothing,280,4,168.04,Warehouse 3,19,Delayed,2,South
+1120,Supplier C,Furniture,76,10,117.73,Warehouse 1,51,Delayed,1,West
+1121,Supplier B,Food,181,7,307.65,Warehouse 3,34,Delayed,6,East
+1122,Supplier C,Food,492,7,63.57,Warehouse 3,26,In Transit,6,West
+1123,Supplier B,Furniture,160,4,139.27,Warehouse 3,12,Delayed,0,North
+1124,Supplier A,Electronics,104,4,81.49,Warehouse 2,61,Delivered,7,West
+1125,Supplier B,Electronics,210,9,277.54,Warehouse 2,91,Delayed,4,East
+1126,Supplier C,Electronics,402,9,377.12,Warehouse 3,65,Delayed,7,South
+1127,Supplier B,Furniture,479,6,415.88,Warehouse 2,30,In Transit,7,East
+1128,Supplier C,Clothing,268,5,378.01,Warehouse 1,15,Delivered,1,West
+1129,Supplier A,Clothing,118,5,352.52,Warehouse 2,41,Delivered,1,East
+1130,Supplier B,Electronics,426,7,275.86,Warehouse 2,55,Delayed,3,South
+1131,Supplier A,Electronics,84,2,384.09,Warehouse 3,21,Delivered,4,East
+1132,Supplier A,Food,232,10,345.65,Warehouse 1,91,In Transit,0,West
+1133,Supplier C,Food,126,4,55.68,Warehouse 3,25,Delivered,6,West
+1134,Supplier A,Electronics,435,10,313.29,Warehouse 3,83,In Transit,3,South
+1135,Supplier B,Furniture,86,2,295.79,Warehouse 3,23,In Transit,2,North
+1136,Supplier A,Food,135,2,451.0,Warehouse 3,63,Delivered,4,North
+1137,Supplier C,Furniture,381,3,374.45,Warehouse 3,35,Delayed,4,East
+1138,Supplier D,Furniture,83,3,106.52,Warehouse 1,22,Delayed,0,North
+1139,Supplier C,Food,375,6,324.33,Warehouse 1,14,In Transit,6,North
+1140,Supplier B,Food,160,2,445.42,Warehouse 2,40,Delivered,6,West
+1141,Supplier D,Clothing,210,2,312.13,Warehouse 2,41,Delivered,1,South
+1142,Supplier D,Clothing,135,4,269.02,Warehouse 1,20,In Transit,6,East
+1143,Supplier D,Clothing,135,5,132.37,Warehouse 3,39,In Transit,0,North
+1144,Supplier D,Furniture,128,4,91.15,Warehouse 3,67,In Transit,1,East
+1145,Supplier D,Furniture,81,2,129.13,Warehouse 3,46,Delayed,5,North
+1146,Supplier A,Food,241,3,63.02,Warehouse 1,55,Delayed,2,South
+1147,Supplier B,Clothing,214,2,495.65,Warehouse 2,19,Delayed,7,South
+1148,Supplier C,Electronics,477,7,241.98,Warehouse 1,23,Delayed,1,South
+1149,Supplier B,Clothing,136,9,431.04,Warehouse 1,17,Delayed,4,West
+1150,Supplier B,Clothing,116,5,475.73,Warehouse 2,31,In Transit,5,West
+1151,Supplier D,Electronics,408,2,154.05,Warehouse 2,66,Delayed,3,North
+1152,Supplier A,Food,451,3,239.47,Warehouse 2,12,Delayed,6,East
+1153,Supplier B,Furniture,244,8,125.99,Warehouse 2,50,Delivered,5,East
+1154,Supplier C,Food,218,10,442.64,Warehouse 2,39,Delivered,3,West
+1155,Supplier A,Furniture,382,10,84.4,Warehouse 1,80,In Transit,7,North
+1156,Supplier B,Clothing,89,6,65.31,Warehouse 3,50,Delivered,3,East
+1157,Supplier B,Food,199,8,121.18,Warehouse 2,48,Delivered,5,East
+1158,Supplier A,Clothing,468,8,272.59,Warehouse 3,29,In Transit,4,East
+1159,Supplier B,Food,287,7,420.9,Warehouse 2,91,In Transit,2,North
+1160,Supplier A,Electronics,461,9,265.09,Warehouse 2,19,Delivered,7,East
+1161,Supplier C,Clothing,469,8,312.37,Warehouse 3,10,Delivered,4,North
+1162,Supplier C,Food,223,9,476.39,Warehouse 2,15,In Transit,7,West
+1163,Supplier D,Furniture,316,6,262.51,Warehouse 1,56,Delivered,4,East
+1164,Supplier A,Food,220,7,218.7,Warehouse 3,99,In Transit,6,North
+1165,Supplier A,Food,109,9,325.32,Warehouse 3,59,Delayed,6,West
+1166,Supplier A,Furniture,82,2,393.11,Warehouse 1,53,Delivered,6,South
+1167,Supplier C,Food,313,10,387.48,Warehouse 1,25,Delayed,1,East
+1168,Supplier D,Electronics,194,5,195.03,Warehouse 3,42,Delayed,1,North
+1169,Supplier D,Electronics,279,10,230.49,Warehouse 2,41,Delayed,2,West
+1170,Supplier A,Electronics,465,10,184.04,Warehouse 3,87,Delivered,5,East
+1171,Supplier B,Food,361,5,260.91,Warehouse 2,83,Delayed,3,North
+1172,Supplier D,Electronics,94,4,285.04,Warehouse 1,69,In Transit,7,East
+1173,Supplier B,Electronics,99,6,435.5,Warehouse 3,62,Delivered,5,West
+1174,Supplier A,Clothing,111,3,437.0,Warehouse 3,52,Delivered,2,East
+1175,Supplier A,Food,128,4,434.84,Warehouse 1,32,Delivered,3,North
+1176,Supplier A,Electronics,84,5,322.45,Warehouse 1,82,Delayed,4,West
+1177,Supplier C,Food,245,8,423.34,Warehouse 3,45,Delivered,3,West
+1178,Supplier A,Furniture,279,4,372.59,Warehouse 2,27,Delivered,4,West
+1179,Supplier C,Furniture,94,8,326.93,Warehouse 3,23,Delivered,5,West
+1180,Supplier A,Food,89,3,247.59,Warehouse 1,75,Delivered,2,West
+1181,Supplier B,Food,227,7,348.18,Warehouse 3,73,Delayed,0,South
+1182,Supplier A,Clothing,233,3,484.71,Warehouse 1,44,Delivered,0,West
+1183,Supplier C,Clothing,304,6,133.08,Warehouse 3,84,In Transit,1,South
+1184,Supplier D,Furniture,346,7,472.96,Warehouse 3,47,Delayed,6,North
+1185,Supplier C,Furniture,288,5,382.07,Warehouse 3,87,Delivered,4,South
+1186,Supplier A,Electronics,225,7,284.28,Warehouse 1,59,In Transit,7,South
+1187,Supplier D,Food,56,10,434.02,Warehouse 2,91,In Transit,3,South
+1188,Supplier A,Electronics,402,7,359.65,Warehouse 3,26,In Transit,3,West
+1189,Supplier B,Food,431,9,94.91,Warehouse 1,85,Delivered,5,South
+1190,Supplier C,Furniture,227,8,262.56,Warehouse 3,46,Delivered,3,South
+1191,Supplier D,Electronics,219,9,477.55,Warehouse 2,76,Delivered,5,East
+1192,Supplier A,Food,303,5,309.11,Warehouse 3,53,Delayed,7,North
+1193,Supplier D,Food,192,5,294.28,Warehouse 1,58,Delivered,1,East
+1194,Supplier B,Furniture,381,9,107.01,Warehouse 3,98,Delivered,3,South
+1195,Supplier D,Furniture,418,6,489.05,Warehouse 2,60,Delivered,0,South
+1196,Supplier C,Electronics,324,2,264.3,Warehouse 1,71,Delivered,7,West
+1197,Supplier C,Food,312,7,441.38,Warehouse 3,29,Delivered,6,North
+1198,Supplier D,Furniture,237,2,178.85,Warehouse 2,34,In Transit,6,West
+1199,Supplier A,Food,171,8,331.46,Warehouse 1,13,Delivered,3,North
+1200,Supplier C,Electronics,147,2,197.98,Warehouse 3,47,In Transit,0,East
+1201,Supplier A,Food,139,9,181.17,Warehouse 1,29,Delivered,3,West
+1202,Supplier A,Food,187,3,206.49,Warehouse 3,21,Delayed,1,South
+1203,Supplier D,Electronics,196,6,310.91,Warehouse 2,64,In Transit,5,South
+1204,Supplier B,Food,438,6,435.71,Warehouse 2,31,In Transit,1,West
+1205,Supplier A,Clothing,369,9,243.29,Warehouse 2,21,Delivered,4,North
+1206,Supplier B,Electronics,261,2,351.15,Warehouse 2,65,In Transit,2,West
+1207,Supplier D,Furniture,471,7,162.95,Warehouse 2,17,In Transit,5,North
+1208,Supplier B,Clothing,80,9,194.66,Warehouse 2,11,In Transit,2,East
+1209,Supplier D,Electronics,161,5,471.81,Warehouse 2,13,Delivered,4,South
+1210,Supplier B,Electronics,461,8,178.79,Warehouse 3,56,In Transit,6,South
+1211,Supplier B,Food,465,9,187.44,Warehouse 2,10,Delayed,5,North
+1212,Supplier B,Clothing,91,10,75.22,Warehouse 2,12,Delivered,0,East
+1213,Supplier C,Furniture,318,7,464.91,Warehouse 1,65,In Transit,0,South
+1214,Supplier B,Furniture,452,7,113.54,Warehouse 3,43,Delayed,2,South
+1215,Supplier A,Food,312,3,83.73,Warehouse 2,83,In Transit,6,North
+1216,Supplier A,Furniture,169,9,397.69,Warehouse 2,20,Delayed,7,East
+1217,Supplier C,Food,428,7,426.02,Warehouse 3,79,In Transit,5,West
+1218,Supplier D,Clothing,70,4,260.97,Warehouse 3,98,Delivered,5,West
+1219,Supplier D,Food,201,9,422.11,Warehouse 1,31,Delayed,1,South
+1220,Supplier D,Electronics,205,7,173.11,Warehouse 1,33,Delayed,3,South
+1221,Supplier C,Food,439,9,208.99,Warehouse 1,84,In Transit,3,South
+1222,Supplier D,Electronics,156,8,360.22,Warehouse 1,75,Delivered,6,North
+1223,Supplier B,Food,224,4,202.72,Warehouse 1,53,Delayed,3,West
+1224,Supplier B,Furniture,399,6,468.37,Warehouse 2,19,In Transit,4,East
+1225,Supplier A,Food,111,10,191.69,Warehouse 2,90,In Transit,0,East
+1226,Supplier D,Furniture,414,10,261.23,Warehouse 2,17,Delivered,6,North
+1227,Supplier C,Electronics,190,3,109.62,Warehouse 2,96,Delayed,3,West
+1228,Supplier C,Food,195,5,373.85,Warehouse 2,34,In Transit,5,North
+1229,Supplier D,Electronics,282,10,105.92,Warehouse 2,53,In Transit,7,North
+1230,Supplier B,Furniture,66,3,319.35,Warehouse 3,76,Delayed,6,South
+1231,Supplier D,Electronics,229,4,475.99,Warehouse 2,38,In Transit,7,South
+1232,Supplier A,Clothing,274,5,203.49,Warehouse 3,35,Delivered,3,East
+1233,Supplier C,Furniture,140,7,234.73,Warehouse 1,65,Delayed,3,North
+1234,Supplier D,Electronics,292,9,237.88,Warehouse 3,25,Delayed,1,South
+1235,Supplier D,Food,303,2,191.24,Warehouse 2,22,Delayed,6,South
+1236,Supplier A,Food,422,7,145.53,Warehouse 1,31,In Transit,2,North
+1237,Supplier D,Electronics,243,6,467.32,Warehouse 2,54,Delivered,6,East
+1238,Supplier D,Furniture,241,9,395.0,Warehouse 2,78,In Transit,6,South
+1239,Supplier D,Electronics,493,8,380.85,Warehouse 1,79,In Transit,7,East
+1240,Supplier D,Food,316,4,238.94,Warehouse 1,52,Delayed,5,South
+1241,Supplier B,Clothing,497,3,250.6,Warehouse 1,30,In Transit,5,North
+1242,Supplier C,Clothing,246,5,233.69,Warehouse 1,15,Delayed,7,West
+1243,Supplier C,Furniture,260,9,98.23,Warehouse 1,20,Delayed,2,South
+1244,Supplier B,Electronics,470,5,429.27,Warehouse 3,55,Delivered,6,East
+1245,Supplier C,Clothing,132,10,488.15,Warehouse 1,86,Delivered,0,North
+1246,Supplier A,Furniture,222,7,215.91,Warehouse 1,25,Delayed,1,East
+1247,Supplier D,Electronics,380,7,359.19,Warehouse 1,33,Delivered,4,West
+1248,Supplier C,Furniture,89,5,123.77,Warehouse 3,69,Delivered,1,North
+1249,Supplier D,Clothing,446,8,291.48,Warehouse 3,15,Delivered,3,East
+1250,Supplier B,Clothing,116,2,436.11,Warehouse 2,64,In Transit,0,East
+1251,Supplier A,Electronics,109,5,472.05,Warehouse 2,88,In Transit,0,West
+1252,Supplier D,Electronics,365,10,312.94,Warehouse 2,11,Delayed,3,North
+1253,Supplier A,Furniture,57,6,274.83,Warehouse 3,92,Delivered,5,East
+1254,Supplier B,Clothing,434,8,271.12,Warehouse 1,45,Delivered,6,South
+1255,Supplier C,Clothing,483,7,190.04,Warehouse 2,80,Delivered,3,North
+1256,Supplier C,Electronics,56,5,216.05,Warehouse 2,80,Delayed,2,South
+1257,Supplier A,Electronics,53,5,89.03,Warehouse 2,30,Delayed,0,East
+1258,Supplier A,Electronics,270,7,451.33,Warehouse 3,11,Delayed,3,West
+1259,Supplier D,Furniture,53,2,333.05,Warehouse 3,47,In Transit,5,West
+1260,Supplier C,Clothing,66,4,439.96,Warehouse 3,40,Delayed,6,North
+1261,Supplier D,Furniture,428,3,336.95,Warehouse 2,68,Delayed,2,South
+1262,Supplier D,Electronics,486,3,170.13,Warehouse 3,48,Delayed,2,West
+1263,Supplier D,Clothing,269,5,293.68,Warehouse 1,73,Delivered,1,South
+1264,Supplier D,Furniture,252,2,334.16,Warehouse 3,57,In Transit,7,West
+1265,Supplier D,Food,494,2,362.9,Warehouse 1,30,Delayed,1,North
+1266,Supplier C,Electronics,230,6,126.59,Warehouse 3,62,Delivered,6,East
+1267,Supplier B,Electronics,293,5,96.86,Warehouse 1,70,In Transit,4,North
+1268,Supplier B,Furniture,67,10,50.78,Warehouse 3,17,In Transit,4,South
+1269,Supplier D,Electronics,273,9,152.88,Warehouse 1,72,Delayed,7,East
+1270,Supplier D,Electronics,422,10,424.08,Warehouse 2,73,In Transit,3,West
+1271,Supplier C,Electronics,467,10,337.9,Warehouse 2,14,Delayed,2,East
+1272,Supplier C,Food,288,10,162.8,Warehouse 3,31,Delayed,3,North
+1273,Supplier B,Furniture,365,6,346.22,Warehouse 3,50,Delivered,3,South
+1274,Supplier C,Furniture,485,4,127.56,Warehouse 1,83,In Transit,0,West
+1275,Supplier A,Food,440,9,431.06,Warehouse 3,65,In Transit,1,North
+1276,Supplier A,Clothing,472,6,403.28,Warehouse 3,83,Delivered,5,East
+1277,Supplier D,Furniture,166,9,386.85,Warehouse 1,54,Delayed,6,North
+1278,Supplier B,Furniture,229,4,399.93,Warehouse 1,73,Delayed,7,South
+1279,Supplier C,Furniture,52,9,209.95,Warehouse 2,60,Delivered,0,East
+1280,Supplier A,Furniture,106,9,439.03,Warehouse 2,70,Delivered,5,South
+1281,Supplier D,Furniture,267,2,488.83,Warehouse 2,31,Delivered,0,North
+1282,Supplier C,Clothing,256,10,359.15,Warehouse 2,55,Delayed,6,South
+1283,Supplier C,Electronics,204,9,85.8,Warehouse 1,27,In Transit,0,West
+1284,Supplier A,Furniture,255,6,463.82,Warehouse 1,44,Delivered,6,South
+1285,Supplier B,Electronics,146,10,442.26,Warehouse 1,14,Delayed,1,North
+1286,Supplier C,Furniture,93,10,189.05,Warehouse 3,98,In Transit,6,South
+1287,Supplier D,Food,376,3,205.49,Warehouse 2,84,Delayed,4,East
+1288,Supplier D,Food,176,10,168.21,Warehouse 3,47,Delivered,3,South
+1289,Supplier A,Electronics,120,2,221.25,Warehouse 2,18,In Transit,6,South
+1290,Supplier D,Clothing,116,7,422.79,Warehouse 2,34,Delivered,5,West
+1291,Supplier A,Clothing,219,10,426.53,Warehouse 1,99,Delayed,5,North
+1292,Supplier D,Electronics,468,3,389.44,Warehouse 2,27,Delivered,3,West
+1293,Supplier C,Electronics,311,3,226.37,Warehouse 1,83,Delivered,5,North
+1294,Supplier A,Electronics,206,8,237.86,Warehouse 1,42,Delayed,6,North
+1295,Supplier D,Food,225,2,240.87,Warehouse 2,13,Delayed,6,North
+1296,Supplier A,Furniture,350,8,473.95,Warehouse 3,95,In Transit,7,North
+1297,Supplier B,Electronics,374,4,127.58,Warehouse 3,77,In Transit,2,West
+1298,Supplier A,Furniture,463,6,499.92,Warehouse 1,33,Delivered,6,East
+1299,Supplier D,Clothing,64,3,340.34,Warehouse 1,49,Delayed,0,South
+1300,Supplier D,Clothing,381,5,247.49,Warehouse 3,73,Delivered,3,North
+1301,Supplier C,Electronics,336,4,418.27,Warehouse 1,37,In Transit,0,South
+1302,Supplier B,Clothing,290,9,378.0,Warehouse 1,61,In Transit,4,South
+1303,Supplier A,Furniture,304,2,309.9,Warehouse 3,62,Delayed,0,West
+1304,Supplier D,Food,330,4,457.29,Warehouse 1,20,In Transit,3,South
+1305,Supplier D,Furniture,299,7,186.05,Warehouse 1,84,Delivered,0,West
+1306,Supplier A,Electronics,237,5,51.37,Warehouse 1,75,Delivered,4,South
+1307,Supplier D,Furniture,334,9,463.8,Warehouse 1,80,In Transit,2,North
+1308,Supplier D,Food,144,6,372.59,Warehouse 3,92,Delivered,3,East
+1309,Supplier C,Food,329,3,456.89,Warehouse 2,10,Delayed,2,South
+1310,Supplier A,Electronics,436,2,381.61,Warehouse 1,83,In Transit,2,South
+1311,Supplier C,Food,64,4,79.71,Warehouse 1,46,Delayed,0,East
+1312,Supplier B,Food,72,4,155.31,Warehouse 2,96,Delivered,0,South
+1313,Supplier A,Food,475,5,106.56,Warehouse 2,37,Delayed,5,South
+1314,Supplier B,Electronics,364,3,244.56,Warehouse 3,74,Delivered,3,East
+1315,Supplier C,Food,184,2,400.82,Warehouse 2,83,Delayed,3,North
+1316,Supplier C,Clothing,307,2,302.14,Warehouse 3,60,In Transit,1,South
+1317,Supplier A,Furniture,200,10,304.86,Warehouse 3,91,In Transit,4,South
+1318,Supplier D,Furniture,303,8,385.4,Warehouse 1,42,In Transit,2,East
+1319,Supplier B,Food,352,8,246.08,Warehouse 1,80,In Transit,4,North
+1320,Supplier C,Electronics,476,5,368.71,Warehouse 2,55,In Transit,6,South
+1321,Supplier C,Electronics,451,2,78.03,Warehouse 2,67,Delayed,0,South
+1322,Supplier D,Electronics,119,2,423.66,Warehouse 2,21,Delayed,0,South
+1323,Supplier C,Food,418,6,55.28,Warehouse 1,14,Delayed,6,South
+1324,Supplier C,Food,315,7,483.11,Warehouse 3,66,Delivered,0,North
+1325,Supplier B,Clothing,157,6,311.64,Warehouse 2,10,Delivered,0,East
+1326,Supplier B,Food,368,8,251.08,Warehouse 3,61,In Transit,1,South
+1327,Supplier D,Furniture,59,10,406.19,Warehouse 2,60,Delayed,2,West
+1328,Supplier D,Electronics,184,8,92.35,Warehouse 2,60,Delayed,0,South
+1329,Supplier A,Clothing,368,4,231.66,Warehouse 3,34,Delivered,7,South
+1330,Supplier D,Food,119,7,212.51,Warehouse 3,66,Delayed,4,North
+1331,Supplier C,Clothing,357,3,51.0,Warehouse 3,92,Delivered,4,North
+1332,Supplier A,Clothing,200,4,255.76,Warehouse 2,71,Delayed,0,North
+1333,Supplier D,Food,69,5,463.66,Warehouse 1,98,Delayed,1,North
+1334,Supplier D,Electronics,185,6,263.98,Warehouse 3,18,Delayed,1,East
+1335,Supplier B,Clothing,171,5,361.2,Warehouse 2,45,Delivered,5,West
+1336,Supplier B,Clothing,478,10,257.31,Warehouse 3,39,In Transit,3,East
+1337,Supplier C,Clothing,57,9,111.96,Warehouse 1,58,In Transit,7,South
+1338,Supplier C,Food,152,7,348.69,Warehouse 3,76,Delivered,5,West
+1339,Supplier B,Clothing,168,8,211.19,Warehouse 1,93,In Transit,3,North
+1340,Supplier D,Furniture,476,5,193.54,Warehouse 3,79,Delivered,7,East
+1341,Supplier C,Food,87,10,441.21,Warehouse 2,56,Delivered,2,West
+1342,Supplier D,Furniture,487,9,428.4,Warehouse 3,68,Delayed,2,East
+1343,Supplier D,Food,244,6,106.62,Warehouse 1,44,In Transit,3,North
+1344,Supplier A,Food,232,8,244.06,Warehouse 3,29,In Transit,1,South
+1345,Supplier A,Clothing,72,4,380.96,Warehouse 3,93,Delayed,5,East
+1346,Supplier C,Clothing,113,4,211.61,Warehouse 3,59,Delivered,3,East
+1347,Supplier D,Electronics,490,7,491.34,Warehouse 2,73,Delayed,5,West
+1348,Supplier A,Electronics,90,6,122.53,Warehouse 1,45,Delivered,2,East
+1349,Supplier C,Clothing,115,10,299.72,Warehouse 3,40,Delivered,2,East
+1350,Supplier B,Food,209,7,290.98,Warehouse 3,37,Delivered,5,East
+1351,Supplier C,Furniture,412,8,264.0,Warehouse 2,31,In Transit,4,East
+1352,Supplier B,Clothing,125,5,457.12,Warehouse 3,57,Delayed,4,South
+1353,Supplier A,Electronics,417,7,61.91,Warehouse 3,24,In Transit,5,South
+1354,Supplier D,Furniture,219,4,240.57,Warehouse 1,74,Delivered,2,West
+1355,Supplier A,Food,437,8,257.07,Warehouse 3,21,Delivered,1,North
+1356,Supplier A,Food,457,10,477.47,Warehouse 2,37,Delayed,0,West
+1357,Supplier D,Food,254,3,131.21,Warehouse 1,46,Delayed,4,South
+1358,Supplier B,Food,353,6,179.45,Warehouse 1,88,Delivered,7,North
+1359,Supplier D,Food,89,5,409.01,Warehouse 2,84,In Transit,0,East
+1360,Supplier D,Electronics,479,3,261.69,Warehouse 2,27,In Transit,2,East
+1361,Supplier C,Electronics,227,9,363.21,Warehouse 2,48,Delivered,6,South
+1362,Supplier C,Food,437,8,452.85,Warehouse 1,88,Delayed,1,South
+1363,Supplier C,Food,406,5,142.39,Warehouse 3,52,Delayed,7,South
+1364,Supplier C,Food,389,8,330.94,Warehouse 2,56,Delivered,3,East
+1365,Supplier D,Electronics,135,3,101.53,Warehouse 2,88,Delivered,2,South
+1366,Supplier A,Electronics,129,3,497.98,Warehouse 3,83,In Transit,5,North
+1367,Supplier C,Furniture,406,3,313.94,Warehouse 3,93,Delayed,4,East
+1368,Supplier C,Furniture,160,4,408.58,Warehouse 2,100,In Transit,3,North
+1369,Supplier B,Furniture,372,3,372.03,Warehouse 2,93,In Transit,4,South
+1370,Supplier D,Furniture,390,8,131.5,Warehouse 2,17,Delayed,1,South
+1371,Supplier B,Clothing,139,2,62.15,Warehouse 2,14,Delayed,0,South
+1372,Supplier A,Electronics,197,5,353.28,Warehouse 3,62,Delivered,1,South
+1373,Supplier D,Food,83,3,222.99,Warehouse 2,66,In Transit,4,North
+1374,Supplier B,Food,169,8,59.64,Warehouse 3,51,Delayed,7,West
+1375,Supplier D,Clothing,400,3,65.76,Warehouse 3,96,In Transit,2,West
+1376,Supplier A,Food,432,8,243.58,Warehouse 3,40,In Transit,0,West
+1377,Supplier B,Food,434,10,154.62,Warehouse 3,15,Delivered,0,North
+1378,Supplier C,Electronics,244,5,72.27,Warehouse 3,58,Delayed,1,West
+1379,Supplier D,Food,152,5,495.25,Warehouse 1,73,Delayed,6,South
+1380,Supplier B,Clothing,386,2,308.44,Warehouse 2,29,Delayed,0,West
+1381,Supplier B,Furniture,267,5,295.15,Warehouse 3,39,Delivered,2,West
+1382,Supplier B,Electronics,252,6,486.9,Warehouse 3,29,Delivered,2,East
+1383,Supplier A,Food,68,2,475.84,Warehouse 2,41,Delayed,1,West
+1384,Supplier C,Clothing,106,3,149.94,Warehouse 2,63,Delayed,0,North
+1385,Supplier B,Food,412,7,463.88,Warehouse 3,93,Delayed,1,South
+1386,Supplier C,Electronics,144,10,276.01,Warehouse 1,12,Delivered,0,West
+1387,Supplier A,Electronics,426,8,194.71,Warehouse 2,11,Delayed,4,South
+1388,Supplier B,Furniture,299,6,260.66,Warehouse 1,15,Delayed,0,North
+1389,Supplier A,Clothing,425,9,87.45,Warehouse 3,61,Delayed,0,North
+1390,Supplier C,Furniture,476,10,183.43,Warehouse 3,81,Delivered,6,North
+1391,Supplier D,Food,278,10,326.69,Warehouse 2,55,In Transit,4,North
+1392,Supplier A,Clothing,356,4,453.57,Warehouse 1,21,Delivered,4,North
+1393,Supplier A,Furniture,452,5,145.15,Warehouse 3,90,In Transit,2,South
+1394,Supplier D,Furniture,260,9,406.1,Warehouse 3,76,Delivered,1,North
+1395,Supplier C,Food,484,7,421.42,Warehouse 3,79,In Transit,1,East
+1396,Supplier C,Furniture,96,6,257.31,Warehouse 3,29,Delivered,5,North
+1397,Supplier A,Food,326,4,425.0,Warehouse 2,74,In Transit,7,South
+1398,Supplier D,Furniture,131,7,107.9,Warehouse 2,70,Delivered,4,West
+1399,Supplier B,Electronics,424,7,456.03,Warehouse 2,36,Delayed,7,East
+1400,Supplier C,Clothing,320,5,114.45,Warehouse 3,12,Delayed,6,East
+1401,Supplier B,Electronics,370,8,451.8,Warehouse 3,31,Delivered,4,West
+1402,Supplier C,Food,417,3,362.41,Warehouse 3,30,In Transit,6,West
+1403,Supplier B,Clothing,190,7,357.68,Warehouse 1,80,Delayed,3,South
+1404,Supplier D,Clothing,416,7,213.52,Warehouse 2,34,In Transit,3,South
+1405,Supplier D,Clothing,187,4,93.15,Warehouse 1,32,Delivered,6,East
+1406,Supplier B,Furniture,131,9,458.15,Warehouse 3,63,In Transit,3,West
+1407,Supplier B,Clothing,209,4,414.53,Warehouse 3,71,Delayed,0,West
+1408,Supplier B,Electronics,474,7,373.82,Warehouse 3,16,In Transit,5,North
+1409,Supplier B,Food,366,7,359.12,Warehouse 2,38,Delayed,6,West
+1410,Supplier A,Electronics,70,9,430.83,Warehouse 1,47,Delayed,6,East
+1411,Supplier C,Furniture,115,5,103.43,Warehouse 3,65,Delayed,5,West
+1412,Supplier B,Electronics,453,8,184.32,Warehouse 3,16,In Transit,7,South
+1413,Supplier B,Food,276,9,298.05,Warehouse 1,61,Delayed,0,East
+1414,Supplier A,Clothing,74,10,359.74,Warehouse 3,74,Delivered,3,East
+1415,Supplier A,Electronics,120,10,496.86,Warehouse 1,47,In Transit,0,West
+1416,Supplier A,Electronics,498,10,289.1,Warehouse 2,89,Delivered,3,South
+1417,Supplier D,Clothing,145,4,387.6,Warehouse 3,88,Delivered,4,East
+1418,Supplier A,Clothing,221,3,173.21,Warehouse 3,88,Delayed,2,North
+1419,Supplier B,Furniture,209,4,114.2,Warehouse 2,18,Delivered,6,South
+1420,Supplier B,Clothing,296,7,326.6,Warehouse 2,74,Delivered,2,North
+1421,Supplier B,Clothing,252,3,85.82,Warehouse 2,33,In Transit,7,South
+1422,Supplier C,Furniture,301,9,460.75,Warehouse 3,20,In Transit,3,South
+1423,Supplier D,Furniture,345,9,449.32,Warehouse 3,97,Delayed,7,East
+1424,Supplier D,Food,239,10,474.54,Warehouse 2,44,Delivered,7,North
+1425,Supplier D,Food,449,7,361.2,Warehouse 3,25,Delayed,2,North
+1426,Supplier A,Clothing,362,2,280.35,Warehouse 2,50,Delivered,1,East
+1427,Supplier A,Food,187,10,112.69,Warehouse 2,82,In Transit,6,South
+1428,Supplier D,Furniture,355,2,217.07,Warehouse 3,73,Delivered,1,East
+1429,Supplier D,Clothing,333,7,99.38,Warehouse 2,45,Delayed,3,South
+1430,Supplier A,Food,98,7,62.55,Warehouse 2,40,Delivered,4,East
+1431,Supplier A,Electronics,257,2,359.04,Warehouse 2,80,Delayed,3,West
+1432,Supplier B,Food,84,2,354.7,Warehouse 2,23,In Transit,2,South
+1433,Supplier A,Food,326,7,293.2,Warehouse 1,84,Delivered,5,South
+1434,Supplier D,Clothing,134,10,382.57,Warehouse 3,99,In Transit,4,North
+1435,Supplier A,Electronics,87,3,56.41,Warehouse 2,68,Delivered,6,North
+1436,Supplier B,Clothing,423,7,52.43,Warehouse 2,44,Delayed,2,North
+1437,Supplier B,Electronics,140,6,300.65,Warehouse 3,77,Delayed,6,South
+1438,Supplier A,Food,493,5,345.48,Warehouse 2,55,Delayed,0,West
+1439,Supplier B,Clothing,132,9,247.96,Warehouse 2,28,In Transit,2,East
+1440,Supplier D,Furniture,465,2,218.69,Warehouse 3,20,Delayed,4,East
+1441,Supplier A,Furniture,421,9,437.44,Warehouse 3,38,In Transit,5,West
+1442,Supplier B,Electronics,66,7,468.96,Warehouse 1,25,In Transit,0,North
+1443,Supplier D,Electronics,220,10,119.46,Warehouse 1,63,Delayed,0,North
+1444,Supplier A,Electronics,371,3,178.74,Warehouse 1,70,Delivered,2,West
+1445,Supplier A,Clothing,91,7,53.68,Warehouse 3,51,Delivered,1,South
+1446,Supplier C,Electronics,88,8,135.04,Warehouse 2,31,In Transit,5,East
+1447,Supplier D,Food,112,6,227.48,Warehouse 3,87,Delivered,4,North
+1448,Supplier A,Clothing,250,7,188.03,Warehouse 2,29,Delayed,4,East
+1449,Supplier C,Electronics,414,2,290.7,Warehouse 1,32,Delayed,6,East
+1450,Supplier A,Furniture,309,2,109.13,Warehouse 3,91,Delivered,3,South
+1451,Supplier A,Food,321,8,381.45,Warehouse 1,85,Delivered,2,South
+1452,Supplier A,Electronics,82,4,139.48,Warehouse 1,67,Delivered,3,South
+1453,Supplier D,Food,291,9,497.97,Warehouse 1,23,In Transit,5,North
+1454,Supplier D,Clothing,184,2,345.85,Warehouse 2,61,Delivered,7,South
+1455,Supplier B,Electronics,181,6,63.14,Warehouse 2,51,In Transit,3,North
+1456,Supplier D,Furniture,267,10,478.06,Warehouse 2,93,Delivered,1,West
+1457,Supplier B,Clothing,429,9,81.69,Warehouse 3,72,Delivered,6,South
+1458,Supplier B,Food,118,2,407.05,Warehouse 1,76,In Transit,3,East
+1459,Supplier C,Clothing,164,3,329.02,Warehouse 3,66,Delayed,0,North
+1460,Supplier D,Electronics,258,7,210.72,Warehouse 3,98,Delayed,6,East
+1461,Supplier A,Furniture,351,9,443.2,Warehouse 2,100,Delivered,3,West
+1462,Supplier D,Electronics,227,8,80.72,Warehouse 2,73,Delayed,1,West
+1463,Supplier B,Food,197,5,487.81,Warehouse 3,38,Delayed,0,West
+1464,Supplier C,Furniture,365,4,122.05,Warehouse 1,44,Delivered,1,North
+1465,Supplier A,Food,434,2,148.41,Warehouse 3,86,In Transit,6,East
+1466,Supplier B,Furniture,104,3,212.62,Warehouse 1,56,Delayed,6,North
+1467,Supplier D,Food,420,3,343.24,Warehouse 2,100,Delivered,1,East
+1468,Supplier B,Clothing,498,9,291.81,Warehouse 1,15,Delivered,3,East
+1469,Supplier A,Furniture,181,2,296.25,Warehouse 1,95,Delivered,6,West
+1470,Supplier A,Food,489,3,420.52,Warehouse 2,50,In Transit,4,North
+1471,Supplier D,Food,496,10,495.01,Warehouse 3,51,Delivered,4,West
+1472,Supplier C,Furniture,258,7,150.27,Warehouse 1,46,Delivered,4,East
+1473,Supplier B,Electronics,330,8,76.2,Warehouse 1,43,In Transit,2,East
+1474,Supplier D,Furniture,140,2,241.1,Warehouse 3,94,Delayed,4,East
+1475,Supplier D,Clothing,185,6,292.8,Warehouse 3,19,Delayed,5,West
+1476,Supplier C,Furniture,67,8,201.44,Warehouse 2,39,Delivered,1,North
+1477,Supplier B,Electronics,355,2,277.31,Warehouse 3,53,Delivered,7,North
+1478,Supplier A,Food,396,2,364.58,Warehouse 1,66,Delivered,3,East
+1479,Supplier C,Food,445,9,378.3,Warehouse 1,76,In Transit,6,North
+1480,Supplier C,Food,55,2,264.83,Warehouse 3,21,Delivered,6,North
+1481,Supplier A,Furniture,449,9,319.03,Warehouse 3,25,Delivered,0,East
+1482,Supplier D,Electronics,473,6,228.81,Warehouse 3,46,In Transit,3,West
+1483,Supplier C,Electronics,488,3,91.98,Warehouse 3,49,Delayed,5,West
+1484,Supplier D,Electronics,399,8,414.55,Warehouse 3,71,Delivered,5,West
+1485,Supplier A,Food,460,6,181.01,Warehouse 3,12,Delayed,7,North
+1486,Supplier A,Clothing,298,9,443.69,Warehouse 3,34,Delayed,7,West
+1487,Supplier B,Clothing,147,9,338.79,Warehouse 2,29,Delivered,5,East
+1488,Supplier A,Furniture,422,3,388.78,Warehouse 2,59,In Transit,4,South
+1489,Supplier D,Electronics,132,3,221.39,Warehouse 1,88,In Transit,0,West
+1490,Supplier B,Food,351,4,173.25,Warehouse 2,66,In Transit,3,West
+1491,Supplier C,Clothing,59,3,53.59,Warehouse 3,80,Delayed,4,South
+1492,Supplier C,Clothing,339,5,320.86,Warehouse 2,63,In Transit,7,South
+1493,Supplier C,Furniture,312,8,368.37,Warehouse 1,57,Delivered,6,East
+1494,Supplier B,Clothing,284,2,329.06,Warehouse 2,97,In Transit,4,South
+1495,Supplier B,Clothing,56,2,281.77,Warehouse 2,44,In Transit,0,West
+1496,Supplier B,Food,159,2,156.76,Warehouse 1,54,In Transit,2,West
+1497,Supplier A,Furniture,320,6,347.59,Warehouse 2,83,Delivered,0,North
+1498,Supplier B,Electronics,482,6,405.61,Warehouse 3,83,In Transit,7,North
+1499,Supplier B,Food,255,9,180.48,Warehouse 1,67,Delayed,0,East
+1500,Supplier C,Food,175,9,480.09,Warehouse 2,54,In Transit,3,East
